@@ -1,7 +1,7 @@
 plugins:
   - jekyll-remote-theme
-remote_theme: jekyll/minima
-minima:
-  hide_site_feed_link: true
+remote_theme: pages-themes/architect
+# minima:
+#  hide_site_feed_link: true
 # theme: jekyll-theme-minimal
 # page_excerpts: true
