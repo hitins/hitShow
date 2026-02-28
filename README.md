@@ -1,2 +1,2 @@
 # hitShow
-HiT’s note info show
+HiT’s note info show test
