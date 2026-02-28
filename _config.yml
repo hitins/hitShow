@@ -1,6 +1,6 @@
 plugins:
   - jekyll-remote-theme
-remote_theme: pages-themes/slate
+remote_theme: pages-themes/architect
 # minima:
 #  hide_site_feed_link: true
 # theme: jekyll-theme-minimal
