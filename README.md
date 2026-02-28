@@ -1,2 +1,2 @@
 # hitShow
-HiT’s docs show
+HiT’s note info show
