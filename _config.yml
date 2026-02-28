@@ -1,10 +1,2 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-minima
 page_excerpts: true
-
-navigation:
-  - title: Home
-    url: /
-  - title: Op
-    url: /Op/
-  - title: Test
-    url: /Te/
