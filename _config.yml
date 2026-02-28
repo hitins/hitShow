@@ -4,3 +4,4 @@ remote_theme: jekyll/minima
 minima:
   hide_site_feed_link: true
 page_excerpts: true
+show_excerpts: true
