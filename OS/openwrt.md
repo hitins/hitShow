@@ -1,5 +1,8 @@
 # OpenWrt
 
+
+#linux
+
 ## Install
 
 1. 下载 OpenWrt 固件: 进入[官方固件 Web](https://firmware-selector.openwrt.org), 选择固件版本和设备.
