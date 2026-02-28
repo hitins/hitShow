@@ -1,5 +1,6 @@
 plugins:
   - jekyll-remote-theme
+  - jekyll-toc-generator
 remote_theme: pages-themes/architect
 # minima:
 #  hide_site_feed_link: true
